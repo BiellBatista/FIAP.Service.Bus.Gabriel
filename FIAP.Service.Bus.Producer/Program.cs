@@ -8,7 +8,7 @@ namespace FIAP.Service.Bus.Producer
 {
     public class Program
     {
-        private const string QueueConnectionString = "Endpoint=sb://gabrielbatistafiap.servicebus.windows.net/;SharedAccessKeyName=ProductPolicy;SharedAccessKey=UkjV63E0MCwFTMtn5h6zlhVULaJdnRdh9IXEyE0xH9s=";
+        private const string QueueConnectionString = "";
         private const string QueuePath = "productchanged";
         private static IQueueClient _queueClient;
 
