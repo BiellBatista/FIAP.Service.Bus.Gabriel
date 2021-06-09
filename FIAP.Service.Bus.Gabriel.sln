@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FIAP.Service.Bus.Producer", "FIAP.Service.Bus.Producer\FIAP.Service.Bus.Producer.csproj", "{C0D3ADE8-6077-4B92-BCD6-97C910D532EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP.Service.Bus.Consumer", "FIAP.Service.Bus.Consumer\FIAP.Service.Bus.Consumer.csproj", "{BE061F6C-6661-43F4-B3FE-22E52EC1F6D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D3ADE8-6077-4B92-BCD6-97C910D532EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D3ADE8-6077-4B92-BCD6-97C910D532EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D3ADE8-6077-4B92-BCD6-97C910D532EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D3ADE8-6077-4B92-BCD6-97C910D532EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE061F6C-6661-43F4-B3FE-22E52EC1F6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE061F6C-6661-43F4-B3FE-22E52EC1F6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE061F6C-6661-43F4-B3FE-22E52EC1F6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE061F6C-6661-43F4-B3FE-22E52EC1F6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F651AEF1-CB7E-4274-A72C-8100132A2D66}
+	EndGlobalSection
+EndGlobal
